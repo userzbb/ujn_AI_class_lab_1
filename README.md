@@ -47,7 +47,7 @@ pip install -r requirements.txt
 或手动安装：
 
 ```bash
-pip install opencv-python>=4.12.0 mediapipe>=0.10.14 numpy>=2.2.6
+pip install opencv-contrib-python>=4.12.0  mediapipe>=0.10.14 numpy>=2.2.6
 ```
 
 ## 🚀 使用方法
